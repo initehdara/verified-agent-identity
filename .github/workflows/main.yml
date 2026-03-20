@@ -1,4 +1,4 @@
-name: initehdara
+name: Verify Human Identity
 
 on:
   workflow_dispatch:
